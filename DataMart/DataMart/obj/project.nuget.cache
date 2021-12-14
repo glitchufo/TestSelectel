@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkU86+GJr98Rc+X52z500cmDKyaPKVbSj6n+HXbdPpb39XU7Ok1G8HLzTUS0YXzKEy0TeJzAKbzupCETvofckg==",
+  "success": true,
+  "projectFilePath": "e:\\UFO\\Selectel\\TestSelectel\\DataMart\\DataMart\\DataMart.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aschudro\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\aschudro\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

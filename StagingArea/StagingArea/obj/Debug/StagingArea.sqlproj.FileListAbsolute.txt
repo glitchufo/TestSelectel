@@ -1,0 +1,10 @@
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\bin\Debug\StagingArea.dacpac
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\bin\Debug\StagingArea.dll
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\bin\Debug\StagingArea.pdb
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\obj\Debug\StagingArea.sqlproj.AssemblyReference.cache
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\obj\Debug\Model.xml
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\obj\Debug\refactor.xml
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\obj\Debug\postdeploy.sql
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\obj\Debug\predeploy.sql
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\obj\Debug\StagingArea.dll
+e:\UFO\Selectel\TestSelectel\StagingArea\StagingArea\obj\Debug\StagingArea.pdb

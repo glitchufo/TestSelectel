@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vj1OQuV3Wk/zZTVMeBMh746A2cgmcRrDCjbHVzFopR3w8ztOyrNmVPiklGwP6BHt34uudf7Pmwxqe7htnKmnug==",
+  "success": true,
+  "projectFilePath": "e:\\UFO\\Selectel\\TestSelectel\\StagingArea\\StagingArea\\StagingArea.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aschudro\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\aschudro\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

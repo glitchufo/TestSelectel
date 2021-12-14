@@ -1,0 +1,10 @@
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\bin\Debug\DataMart.dacpac
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\bin\Debug\DataMart.dll
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\bin\Debug\DataMart.pdb
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\obj\Debug\DataMart.sqlproj.AssemblyReference.cache
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\obj\Debug\Model.xml
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\obj\Debug\refactor.xml
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\obj\Debug\postdeploy.sql
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\obj\Debug\predeploy.sql
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\obj\Debug\DataMart.dll
+e:\UFO\Selectel\TestSelectel\DataMart\DataMart\obj\Debug\DataMart.pdb
