@@ -76,5 +76,6 @@
     <Build Include="Procedures\LoadAll.sql" />
     <Build Include="Procedures\LoadOrder.sql" />
     <Build Include="Procedures\LoadService.sql" />
+    <Build Include="Procedures\GetReport2.sql" />
   </ItemGroup>
 </Project>
